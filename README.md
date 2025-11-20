@@ -20,7 +20,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ![WhatsApp Image 2025-11-20 at 14 37 43](https://github.com/user-attachments/assets/894457c1-dad5-4184-9f05-ae28674a3800)
 
-![WhatsApp Image 2025-11-20 at 14 37 43](https://github.com/user-attachments/assets/71c15a33-0f8e-4f2d-82ba-6cb2bdb8f9fb)
+![WhatsApp Image 2025-11-20 at 14 37 43 (1)](https://github.com/user-attachments/assets/1df2e14a-e469-41c5-9e6c-2c3d253ab30b)
+
 
 **Procedure**
 
